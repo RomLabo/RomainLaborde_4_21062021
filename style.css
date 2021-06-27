@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    /*color: #575757!important;*/
 }
 
 .container {
@@ -721,6 +721,10 @@ blockquote {
 
 figcaption {
     font-size: 24px;
+}
+
+address {
+    margin-left: 1rem;
 }
 
 h2 {

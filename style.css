@@ -119,7 +119,7 @@ a:hover {
     border-color: rgba(255, 255, 255, .2);
 }
 
-.d-bloc .a-btn,
+/*.d-bloc .a-btn,
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
-}
+}*/
 
 .d-bloc .a-btn:hover,
 .d-bloc .navbar a:hover,
@@ -580,10 +580,13 @@ a[data-lightbox]:hover img {
     padding: 20px;
     color: #FFF;
     background: rgba(0, 0, 0, .5);
-    position: absolute;
     left: 15px;
     right: 15px;
     bottom: 5px;
+}
+
+#lightbox-image {
+    width: 50%;
 }
 
 .close-lightbox {
@@ -634,9 +637,10 @@ a[data-lightbox]:hover img {
 }
 
 .snapshot-lb .lightbox-caption {
-    padding: 0;
+    padding: 2%;
     color: rgba(0, 0, 0, .5);
     background: none;
+    text-align: center;
 }
 
 h1,
@@ -651,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    /*color: #575757!important;*/
+    color: #575757!important;
 }
 
 .container {
@@ -692,7 +696,6 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -745,9 +748,9 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
+/*h1 {
     color: #333333!important;
-}
+}*/
 
 h4 {
     color: #333333!important;
@@ -803,12 +806,10 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
 }
 
 .ltc-white {

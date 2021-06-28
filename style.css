@@ -655,7 +655,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #5E3436!important;
 }
 
 .container {
@@ -955,9 +955,11 @@ h4 {
         padding-left: 15px;
         width: 100%;
     }
+    
     .nav > li:hover {
         background: rgba(0, 0, 0, .08);
     }
+    
     .dropdown .dropdown a .caret {
         float: none;
         margin: 5px 0 0 10px!important;

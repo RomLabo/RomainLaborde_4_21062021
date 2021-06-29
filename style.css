@@ -150,7 +150,7 @@ a:hover {
 .d-bloc h5 a:hover,
 .d-bloc h6 a:hover,
 .d-bloc p a:hover {
-    color: rgba(255, 255, 255, 1);
+    color: rgb(15, 5, 5);
 }
 
 .d-bloc .navbar-toggle .icon-bar {
@@ -326,6 +326,7 @@ a:hover {
     float: left;
     margin-top: 4px;
     font-size: 16px;
+    width: 9rem;
 }
 
 .navbar-nav .open .dropdown-menu > li > a {
@@ -335,6 +336,7 @@ a:hover {
 .nav > li a:hover,
 .nav > li a:focus {
     background: transparent;
+    font-weight: 700;
 }
 
 .navbar-toggle {
@@ -360,6 +362,10 @@ a:hover {
     float: right;
     position: relative;
     z-index: 2;
+}
+
+address a:hover {
+    font-weight: 700;
 }
 
 @media (min-width: 768px) {
@@ -590,7 +596,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-    color: #FFF;
+    color: #000;
     font-size: 30px;
     position: absolute;
     top: 20px;
@@ -607,7 +613,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
     opacity: 1.0;
-    color: #FFF;
+    color: #000;
 }
 
 .next-lightbox,
@@ -663,7 +669,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 32px;
 }
 
 .hero-bloc-text-sub {

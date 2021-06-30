@@ -598,7 +598,7 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-image {
-    width: 70%;
+    width: 50%;
 }
 
 .close-lightbox {

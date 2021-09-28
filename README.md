@@ -24,4 +24,4 @@ optimiser le site en appliquant les 10 recommandations.
  Ce rapport devra inclure les comparaisons pour les 10 recommandations.
  
  
- Lien du site en version original : 
+ Lien du site en version original :  https://romlabo.github.io/RomainLaborde_4_30062021/

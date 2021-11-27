@@ -27,6 +27,6 @@ Ce rapport devra inclure les comparaisons pour les 10 recommandations.
  
 Voir le [rapport](./rapport_optimisation.pdf)
 
-Lien du site en version original :  https://romlabo.github.io/RomainLaborde_4_30062021/
+Lien du site en [version original](https://romlabo.github.io/RomainLaborde_4_30062021/)
  
-Lien du site version optimisée : https://romlabo.github.io/RomainLaborde_4_21062021/
+Lien du site [version optimisée](https://romlabo.github.io/RomainLaborde_4_21062021/) 
